@@ -1,0 +1,14 @@
+button {display: block;}
+
+.die-face {
+    min-height: 220px;
+    min-width: 220px;
+}
+
+.face-1 {background: url("../images/faces.png") 0 0;}
+.face-2 {background: url("../images/faces.png") -225px 0;}
+.face-3 {background: url("../images/faces.png") -448px 0;}
+.face-4 {background: url("../images/faces.png") 0 -224px;}
+.face-5 {background: url("../images/faces.png") -230px -224px;}
+.face-6 {background: url("../images/faces.png") -452px -227px;}
+
